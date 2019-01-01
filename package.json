@@ -1,0 +1,28 @@
+{
+  "name": "ffi-proxy",
+  "version": "1.0.0",
+  "description": "An extension to ffi-builder module, provides a proxy objects to the ffi functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahadeer13/ffi-proxy.git"
+  },
+  "keywords": [
+    "ffi",
+    "ffi-proxy",
+    "ffi-builder"
+  ],
+  "author": "Mahadeer Mohamed <mafyosis@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/mahadeer13/ffi-proxy/issues"
+  },
+  "homepage": "https://github.com/mahadeer13/ffi-procy/wiki",
+  "dependencies": {
+    "ffi-builder": "^1.1.0",
+    "ffi": "2.3.0"
+  }
+}
